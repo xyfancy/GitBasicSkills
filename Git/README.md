@@ -1,6 +1,6 @@
 Git是一种分布式代码版本控制管理工具
 
-* gitpush.sh是用于推送更新的脚本,使用方法为`./gitpush.sh`
+* gitpush.sh是Linux下用于推送更新的脚本,使用方法为`./gitpush.sh`
 
 * 文件夹中存放的是不同系统下安装Git的方法
 
